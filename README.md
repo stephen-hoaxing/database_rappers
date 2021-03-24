@@ -1,6 +1,8 @@
 # Database Management Project from 2015
 Tables are: MC, Stagename (connector), Labels, Band
+
 Decomposition and BCNF
+
 Queries
  - Table creation and inserts
  - Simple, single table selects
